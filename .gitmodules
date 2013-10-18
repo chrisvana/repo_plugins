@@ -1,0 +1,3 @@
+[submodule "closure"]
+	path = closure
+	url = https://github.com/chrisvana/repo_javascript_closure_plugin.git
